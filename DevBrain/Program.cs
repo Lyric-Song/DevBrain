@@ -1,4 +1,5 @@
 // Git practice: Lyric on branch dev - lesson 1
+//hi 这是我的dev分支
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
