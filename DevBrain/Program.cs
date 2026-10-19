@@ -1,3 +1,4 @@
+// Git practice: Lyric on branch dev - lesson 1
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
