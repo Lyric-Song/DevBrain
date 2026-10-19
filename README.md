@@ -1,7 +1,5 @@
 # DevBrain
 
-## 中文
-
 开发者的「外挂脑子」——把不常做但步骤繁琐、容易忘的操作收成随手可查的工具箱；后期对接 Agent，能感知当前项目状态，提示你可能缺什么、下一步该干什么。
 
 ### 要解决什么问题
@@ -43,8 +41,6 @@
 TBD
 
 ---
-
-## English
 
 **DevBrain** — a developer's "external brain": a handy toolbox for rare but fiddly workflows you keep forgetting. Later it plugs into an Agent that can sense your project state and suggest what you might be missing, and what to do next.
 
