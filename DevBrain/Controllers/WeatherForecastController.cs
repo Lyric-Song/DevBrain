@@ -1,3 +1,4 @@
+// Git practice: Grok Bot on feature/agent — lesson merge
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevBrain.Controllers
